@@ -1,0 +1,37 @@
+html, body {
+  font-family: 'Lora', serif;
+}
+
+.input-field{
+  font-family: 'Work Sans', sans-serif;
+}
+
+.input-field{
+ margin-top: 40px;  
+}
+
+.TodoList{
+  margin-top: 30px;
+}
+
+.material-icons{
+  cursor: pointer;
+}
+
+#dropdown1{
+  background: #333;
+  color: #fff !important;
+  text-decoration: none;
+  width: 80px;
+  height: auto;
+  z-index: 20;
+  position: absolute;
+  left: 75%;
+  margin-top: 20px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#dropdown1 ul li:hover{
+  color: #cd2c31;
+}
